@@ -13,12 +13,6 @@ The game doesn’t end until one of the players loses all their lives. At this p
 
 ## Dependencies
 
-- The game works in terminal CLI by executing the main file with ruby
-
-## classes
-players(name, lives, isdead boolean),
-question(first, second number, answer_is_correct boolean)
-answers are gets.chomp?
-## Roles
+- The game works in terminal CLI by executing the main.rb file with ruby
 
 
